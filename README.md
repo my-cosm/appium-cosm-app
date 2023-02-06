@@ -3,14 +3,14 @@ Test automation framework for COSM APPs
 
 Installation
 1. Java
-2. Node.js installation
-3. NPM installation
-4. open terminal/command line:
+2. Install Node.js
+3. Install NPM installation
+4. Open terminal/command line:
 node -v
 npm -v
-5. install VSC editor
+5. Install VSC editor
 
-6. webdriver setup and installation commands:
+6. Webdriver setup and installation commands:
 -- npm init
 -- npm install webdriverio --save-dev
 -- npm install @wdio/cli
