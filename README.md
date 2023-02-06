@@ -4,7 +4,7 @@ Test automation framework for COSM APPs
 Installation
 1. Java
 2. Install Node.js
-3. Install NPM installation
+3. Install NPM
 4. Open terminal/command line:
 node -v
 npm -v
